@@ -1,0 +1,33 @@
+DART AND FLUTTER
+Q1: B) Download the Dart SDK
+
+Q2: D) dart --version
+
+Q3: B) Update your PATH
+
+Q4: C) flutter run
+
+PYTHON INSTALLATION
+
+Q1: B) Download Python from the official website
+
+Q2: C) Add Python to PATH
+
+Q3: A) By running python --version
+
+Q4: A) sudo install pip
+
+Q5: C) To separate project dependencies and avoid conflicts
+
+MYSQL
+
+Q1: B) Download MySQL Installer from the official website
+
+Q2: D) Custom
+
+Q3: A) MySQL Server, MySQL Workbench, and MySQL Shell
+
+Q4: A) To create a user account for your MySQL server
+
+Q5: C) Run mysqladmin start in the terminal
+
